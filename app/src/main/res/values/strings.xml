@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Garra2</string>
+    <string name="text_new">Nuevo registro animal</string>
+    <string name="text_list">consultar animales</string>
+    <string name="text_name">Ingresa el nombre del animal</string>
+    <string name="text_save">Guardar</string>
+
+
 </resources>
